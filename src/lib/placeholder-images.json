@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "prod_1",
+      "description": "Blue Denim Jeans",
+      "imageUrl": "https://picsum.photos/seed/prod_1/400/400",
+      "imageHint": "denim jeans"
+    },
+    {
+      "id": "prod_2",
+      "description": "White Cotton T-Shirt",
+      "imageUrl": "https://picsum.photos/seed/prod_2/400/400",
+      "imageHint": "white t-shirt"
+    },
+    {
+      "id": "prod_3",
+      "description": "Red Silk Scarf",
+      "imageUrl": "https://picsum.photos/seed/prod_3/400/400",
+      "imageHint": "silk scarf"
+    },
+    {
+      "id": "prod_4",
+      "description": "Gray Wool Sweater",
+      "imageUrl": "https://picsum.photos/seed/prod_4/400/400",
+      "imageHint": "wool sweater"
+    },
+    {
+      "id": "prod_5",
+      "description": "Black Leather Jacket",
+      "imageUrl": "https://picsum.photos/seed/prod_5/400/400",
+      "imageHint": "leather jacket"
+    },
+    {
+      "id": "prod_6",
+      "description": "Beige Linen Trousers",
+      "imageUrl": "https://picsum.photos/seed/prod_6/400/400",
+      "imageHint": "linen trousers"
+    },
+    {
+      "id": "prod_7",
+      "description": "Green Fleece Hoodie",
+      "imageUrl": "https://picsum.photos/seed/prod_7/400/400",
+      "imageHint": "fleece hoodie"
+    },
+    {
+      "id": "prod_8",
+      "description": "Patterned Fabric Roll",
+      "imageUrl": "https://picsum.photos/seed/prod_8/400/400",
+      "imageHint": "fabric roll"
+    },
+    {
+      "id": "prod_9",
+      "description": "Navy Blue Polo Shirt",
+      "imageUrl": "https://picsum.photos/seed/prod_9/400/400",
+      "imageHint": "polo shirt"
+    },
+    {
+      "id": "prod_10",
+      "description": "Denim Fabric Bolt",
+      "imageUrl": "https://picsum.photos/seed/prod_10/400/400",
+      "imageHint": "denim fabric"
+    }
+  ]
+}
